@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 **Я всегда стараюсь работать над собой и хочу изучать новые инструменты и технологии, чтобы иметь интересную работу и быть востребованным специалистом.**
 
 [Здесь вы можете ознакомиться с моим портфолио](https://github.com/Vadimius1010/Portfolio)
-[А здесь вы можете найти моё резюме]([https://github.com/Vadimius1010/Portfolio](https://drive.google.com/file/d/1URm3BTnoGNoS5ypJtkMy63fR2b4vY02z/view?usp=sharing)https://drive.google.com/file/d/1URm3BTnoGNoS5ypJtkMy63fR2b4vY02z/view?usp=sharing)
+[А здесь вы можете найти моё резюме](https://drive.google.com/file/d/1URm3BTnoGNoS5ypJtkMy63fR2b4vY02z/view?usp=sharing)
 
