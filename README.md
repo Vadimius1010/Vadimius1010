@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 [Здесь вы можете ознакомиться с моим портфолио](https://github.com/Vadimius1010/Portfolio)
 
-[А здесь вы можете найти моё резюме](https://drive.google.com/file/d/1URm3BTnoGNoS5ypJtkMy63fR2b4vY02z/view?usp=sharing)
+[А здесь вы можете найти моё резюме](https://drive.google.com/file/d/13FvZ0LPmJz19Ows0UTZbKLymq3H7jybq/view?usp=sharing)
 
